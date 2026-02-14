@@ -1,8 +1,6 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=root@0xAndreSec:~%23+init_sequence;Target:+Global+Infrastructure;Status:+Invisible;Mode:+Offensive+Architect&font=Fira+Code&center=true&width=550&height=50&color=00ff41&vCenter=true&size=20" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=root@0xAndreSec:~%23+init_sequence;Target:+Global+Infrastructure;Status:+Invisible;Mode:+Offensive+Architect&font=Fira+Code&center=true&width=550&height=50&color=00ff41&vCenter=true&size=20" alt="Typing SVG" />
 
   <br/>
 
@@ -38,12 +36,8 @@
   <br/>
 
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrexd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" />
-    </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=andrexd&theme=dark&hide_border=true&background=0d1117&ring=00ff41&currStreakLabel=00ff41" />
-    </a>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrexd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=andrexd&theme=dark&hide_border=true&background=0d1117&ring=00ff41&currStreakLabel=00ff41" />
   </p>
 
   <p align="center">
@@ -53,6 +47,6 @@
   <br/>
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=5" />
-  <p align="right"><sub>0xAndreSec | Architect Mode: ON</sub></p>
+  <p align="right"><code>0xAndreSec | Architect Mode: ON</code></p>
 
 </div>
