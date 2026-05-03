@@ -4,7 +4,7 @@
 
   <br/>
 
-  <code>Protocol: White Hat // Location: Encrypted // Latency: 1ms</code>
+  <code>Focus: Offensive Security // Location: Istanbul, TR // Availability: Open to Projects</code>
 
   <br/><br/>
 
