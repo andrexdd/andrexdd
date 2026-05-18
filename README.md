@@ -1,37 +1,48 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=root@0xAndreSec:~%23+init_sequence;Target:+Global+Infrastructure;Status:+Active;Mode:+Offensive+Architect&font=Fira+Code&center=true&width=550&height=50&color=00ff41&vCenter=true&size=20" alt="Sequence Initialization" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=root@0xAndreSec:~%23+init_sequence;Target:+Global+Infrastructure;Status:+Active;Mode:+Offensive+Architect&font=Fira+Code&center=true&width=550&height=50&color=00ff41&vCenter=true&size=20" alt="Kernel Initialization" />
 
   <br/>
 
-  <code>Focus: Offensive Security // System Architecture // Exploit Development</code>
+  <code>Focus: Offensive Security Operations // Distributed Systems // Low-Level Engineering</code>
   <br/>
-  <code>Location: Istanbul, TR // Node: 41.0082° N, 28.9784° E</code>
+  <code>Environment: Linux Subsystems // Node IP: 41.0082° N, 28.9784° E</code>
 
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=70%" />
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=75%" />
+  <br/><br/>
 
 </div>
 
-### Technical Capabilities
-
 ```text
 ===============================================================================
-[LAYER 01] LOW LEVEL & EXPLOIT DEVELOPMENT
+[0x01] LOW-LEVEL ARTIFACTS & MEMORY MANAGEMENT
 -------------------------------------------------------------------------------
-  • Languages ..... : C // C++ // Assembly (x86_64) // Rust
-  • Focus ......... : Memory Corruption, Buffer Overflows, Reverse Engineering
-  • Environments .. : Linux Kernel Space, Bare-Metal Architecture
+  • Languages ........ : C // C++ // x86_64 Assembly // Rust Runtime
+  • Scope .......... : Memory Corruption, Buffer Overflows, Reverse Engineering
+  • Execution ...... : Custom Shellcode Injection, Linux Kernel Space Auditing
 
-[LAYER 02] NETWORK SPACE & AUTOMATION
+[0x02] NETWORK ARCHITECTURE & SOCKET IMPLEMENTATIONS
 -------------------------------------------------------------------------------
-  • Engines ....... : Python // Go // GNU Bash // Perl
-  • Routing ....... : Custom Socket Impls, Protocol Auditing, Packet Crafting
-  • Utilities ..... : Zero-DB Stream Engines, High-Concurrency Network Tasks
+  • Engines ........ : Go // Python // GNU Bash // Perl
+  • Mechanics ...... : Packet Crafting, Raw Socket Manipulation, Proxy Chains
+  • Deployments .... : Stateless High-Concurrency Daemons, Zero-DB Stream Engines
 
-[LAYER 03] WEB TESTING & INJECTION LAYER
+[0x03] RUNTIME ENVIRONMENT & WEB ABSTRACTIONS
 -------------------------------------------------------------------------------
-  • Frameworks .... : TypeScript // JavaScript // Node.js // Native PHP
-  • Auditing ...... : SQLi Automation, Type Juggling, Cryptographic Bypass
+  • Engines ........ : TypeScript // JavaScript // Node.js Native // Vanilla PHP
+  • Exploitation ... : Cryptographic Bypass, Type Juggling, Injection Automation
 ===============================================================================
+[PRODUCTION PHILOSOPHY]
+1. Persisting data into a disk array when logic can be evaluated entirely 
+   within volatile memory or serialized client-side state is an absolute waste 
+   of infrastructure resources.
+2. Code aesthetics should mimic the underlying architecture: zero abstraction layers, 
+   strict scoping, and maximum hardware affinity.
+const runtimeContext = {
+    handle: "0xAndreSec",
+    operationalStatus: "Invisible",
+    allocation: "Open to High-Impact System Architecture & Penetration Tasks",
+    coreStack: ["Kernel Auditing", "Distributed Protocol Optimization"],
+    upstreamNode: "[https://www.fikiral.net.tr](https://www.fikiral.net.tr)"
+};
