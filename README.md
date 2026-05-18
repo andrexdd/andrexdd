@@ -4,9 +4,9 @@
 
   <br/>
 
-  <code>[+] Focus: Offensive Security // System Architecture // Exploit Development</code>
+  <code>Focus: Offensive Security // System Architecture // Exploit Development</code>
   <br/>
-  <code>[+] Location: Istanbul, TR // Node: 41.0082° N, 28.9784° E</code>
+  <code>Location: Istanbul, TR // Node: 41.0082° N, 28.9784° E</code>
 
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=70%" />
@@ -14,7 +14,7 @@
 
 </div>
 
-### 💀 Core Technical Capabilities
+### Technical Capabilities
 
 ```text
 ===============================================================================
